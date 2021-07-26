@@ -1,2 +1,2 @@
 # WildRiftRandomLANE
-#Aplicando conhecimentos sobre javascript, unindo meu jogo favorito. :D
+Aplicando conhecimentos sobre javascript, unindo meu jogo favorito. :D
