@@ -1,0 +1,81 @@
+body{
+    background-color: rgba(0, 0, 0, 0.9 );
+}
+
+@media screen and (max-width: 767px) {
+    header>img{
+        width: max-content;
+    }
+    .header{
+        margin: 0;
+        width: 100%;
+        border: 1px solid black ;
+    }
+    img{
+        max-width: max-content;
+    }
+    
+}
+
+.main{
+    border: 1px;
+    width: 70%;
+    margin: auto;
+}
+header{
+    text-align: center;
+    margin-top: 50px;
+}
+
+header>img{
+    height: auto;
+    width: 80%;
+}
+ul{
+    color: white;
+    position: relative;
+    text-align: end;
+    margin-top: -79px;
+    list-style-type: none;
+}
+article{
+    color: white;
+    text-align: center;
+    /* border: 1px coral solid; */
+}
+a{
+    color:white !important;
+    text-decoration: none;
+}
+a:hover{
+    color: tomato;
+    transition: 5s;
+}
+label{
+    margin: 10px;
+}
+select{
+    padding: 4px;
+    border: none;
+    border-style: none;
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+#campeao_img{
+    /* border: tomato 1px solid; */
+    text-align: center;
+    }
+button{
+    
+    padding: 0px 6px;
+    margin: auto;
+    display: block;
+    border: none;
+    background-color: white;
+    border-radius: 2px;
+}
+img{
+    padding-top: 25px;
+    max-height: 400px ;
+}
